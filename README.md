@@ -2,7 +2,7 @@
 
 Using Excel to prepare the raw data for analysis and explore it by using Excel Pivot Tables and then transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends and opportunities for the business. <br/>
 
-![screenshot/dark.PNG](https://github.com/JennyNgo273/CoffeeShopDashboard) <br/>
+![screenshot/dark.PNG](https://github.com/JennyNgo273/CoffeeShopDashboard/blob/master/CoffeeDashboard.png) <br/>
 
 
 # Technology
